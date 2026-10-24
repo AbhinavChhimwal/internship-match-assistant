@@ -1,6 +1,6 @@
 from datetime import date
 from typing import Literal
-from pydantic import BaseModel, ConfigDict, Field, HttpUrl, field_validator
+from pydantic import BaseModel, ConfigDict, Field, HttpUrl, field_validator, model_validator
 
 ALIASES = {'js': 'javascript', 'postgres': 'postgresql', 'py': 'python', 'ts': 'typescript',
            'bangalore':'bengaluru','gurgaon':'gurugram'}
@@ -44,6 +44,19 @@ class ResumeExtraction(StrictModel):
 class PreferenceArgs(StrictModel):
     remote_only: bool | None = None
     preferred_locations: list[str] | None = Field(default=None, max_length=15)
+    add_skills: list[str] = Field(default_factory=list,max_length=40)
+    remove_skills: list[str] = Field(default_factory=list,max_length=40)
+
+    @field_validator('add_skills','remove_skills')
+    @classmethod
+    def clean_skills(cls,values):
+        return Profile.clean_list(values)
+
+    @model_validator(mode='after')
+    def reject_conflicting_skills(self):
+        if set(self.add_skills) & set(self.remove_skills):
+            raise ValueError('A skill cannot be added and removed in the same change.')
+        return self
 
     @field_validator('preferred_locations')
     @classmethod
@@ -51,6 +64,10 @@ class PreferenceArgs(StrictModel):
         if values is None:
             return None
         return Profile.clean_list(values)
+
+def preference_skills(current,args):
+    """Apply explicit deltas to the latest skills; enforce the profile's limit."""
+    return Profile(skills=sorted((set(current)-set(args.remove_skills)) | set(args.add_skills))).skills
 
 class Job(BaseModel):
     model_config = ConfigDict(extra='forbid')

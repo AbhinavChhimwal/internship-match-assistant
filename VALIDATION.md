@@ -87,3 +87,12 @@ configuration. All 60 tests passed in 26.27 seconds. Real secrets were not modif
 tests isolate the configured cloud database. Hosted behavior must be checked after
 the deployment picks up this commit.
 
+# Chat skill updates (2026-10-25)
+
+All 69 tests passed in 28.53 seconds. Coverage includes confirmed add/remove
+skill deltas, cancellation, normalization, conflicting arguments, profile limits,
+unrelated-field preservation, account isolation, search against the updated
+profile and Streamlit confirmation previews. Existing resume replacement tests
+continue to pass. Provider behavior is tested with controlled Gemini responses;
+no extra live Gemini calls or real profile changes were made for these checks.
+

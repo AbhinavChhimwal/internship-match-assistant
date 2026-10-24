@@ -6,7 +6,7 @@ from app_runtime import refresh_project_modules
 refresh_project_modules()
 import db
 from configuration import chat_config
-from schemas import Profile, PreferenceArgs
+from schemas import Profile, PreferenceArgs, preference_skills
 from search import search_jobs, exclusion
 from agent import Agent
 from ai_errors import provider_error
@@ -278,6 +278,12 @@ elif page=='Chat':
             new_locations=profile.preferred_locations if args.preferred_locations is None else args.preferred_locations
             st.write('Work mode: '+('Remote only' if new_remote else 'Any arrangement'))
             st.write('Locations: '+(', '.join(new_locations).title() or 'Any location'))
+            if args.add_skills or args.remove_skills:
+                if args.add_skills:
+                    st.write('Add skills: '+', '.join(args.add_skills))
+                if args.remove_skills:
+                    st.write('Remove skills: '+', '.join(args.remove_skills))
+                st.write('Skills after confirmation: '+(', '.join(preference_skills(profile.skills,args)) or 'None'))
             a,b=st.columns(2)
             if a.button('Confirm change',disabled=agent is None,type='primary'):
                 st.session_state.pop('pending')

@@ -110,6 +110,35 @@ def test_chat_preference_confirmation_ui(tmp_path,monkeypatch):
     assert db.get_profile(uid).remote_only
     assert db.get_profile(uid).preferred_locations==['india']
 
+def test_chat_skill_confirmation_preview(tmp_path,monkeypatch):
+    import configuration,agent
+    from test_agent import FakeClient,response
+    monkeypatch.setattr(db,'STATE_DIR',tmp_path)
+    monkeypatch.setattr(configuration,'chat_config',lambda: ('fake','test',None))
+    client=FakeClient([response([('update_preferences',{'add_skills':['Docker'],'remove_skills':['Java']})]),
+        response(text='Skills saved.')])
+    original=agent.Agent
+    monkeypatch.setattr(agent,'Agent',lambda *args,**kwargs: original(*args,**kwargs,client=client))
+    db.init_db()
+    code=db.create_user('Student')
+    uid=db.authenticate(code)['id']
+    from schemas import Profile
+    db.save_profile(uid,Profile(skills=['Java','Python']))
+    at=AppTest.from_file(APP,default_timeout=30).run()
+    at.text_input[0].set_value(code)
+    at.button[0].click().run()
+    at.radio[0].set_value('Chat').run()
+    at.chat_input[0].set_value('I know Docker; remove Java').run()
+    assert not at.exception
+    assert any('Add skills: docker' in m.value for m in at.markdown)
+    assert any('Remove skills: java' in m.value for m in at.markdown)
+    assert any('Skills after confirmation: docker, python' in m.value for m in at.markdown)
+    assert db.get_profile(uid).skills==['java','python']
+    next(b for b in at.button if b.label=='Confirm change').click().run()
+    assert not at.exception
+    assert db.get_profile(uid).skills==['docker','python']
+
+
 def test_resume_upload_resets_manual_skills_in_ui(tmp_path,monkeypatch):
     import streamlit as st
     import resume_profile

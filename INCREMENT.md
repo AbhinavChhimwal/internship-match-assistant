@@ -465,3 +465,28 @@ authentication, and catalog preservation across new connections and repeated
 initialization. `docs/STREAMLIT_NEON.md` records setup and hosting steps. The
 earlier pending-Supabase status above describes that historical milestone;
 the Neon connection is now verified. Public Streamlit deployment remains pending.
+
+## Increment 13 — Confirmed skill changes through chat
+
+The user requested that chat support self-reported technologies just as the
+manual Profile form does. Chat can now propose adding or removing specific
+skills, without requiring those skills to appear in the saved resume.
+
+- `PreferenceArgs` in `schemas.py` adds `add_skills` and `remove_skills` delta
+  lists, with existing alias normalization, limits and conflict validation.
+- `agent.py` extends the existing `update_preferences` tool rather than adding
+  another tool. Its instructions distinguish statements such as “I also know
+  Docker” from searches such as “Find React internships”; searches alone must
+  not claim the user knows a technology. Related skills are not inferred.
+- `app.py` displays additions, removals and the resulting skills before the
+  existing Confirm/Cancel decision. A proposal alone does not save anything.
+- `db.update_preferences()` applies deltas to the latest stored skills inside
+  the preference transaction. PostgreSQL locks the target profile row while
+  merging. Unrelated skills, interests, graduation year and resume data remain.
+- Confirmed changes are immediately available to matching through the shared
+  profile-backed search functions. New successful resume uploads still replace
+  all skills, including additions made through chat.
+- Tests cover confirmation, cancellation, alias conflicts, invalid arguments,
+  account isolation, skill limits, search without mutation and the visible
+  confirmation panel. The public app is now reported deployed by the owner;
+  hosted verification of this increment follows the GitHub deployment update.

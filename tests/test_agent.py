@@ -2,6 +2,8 @@ from types import SimpleNamespace as NS
 from google.genai import types
 from agent import Agent
 import db
+import pytest
+from schemas import Profile
 
 def response(calls=(),text=None):
     return NS(function_calls=[NS(name=n,args=a) for n,a in calls],text=text,
@@ -71,3 +73,69 @@ def test_transient_retry_charged_and_quota_not_retried(database):
     agent.client=client
     assert agent.start('hello')['error']
     assert client.count==1
+
+
+def test_confirmed_skill_deltas_preserve_other_fields_and_drive_search(database):
+    path,uid,_=database
+    db.save_profile(uid,Profile(skills=['Python','Java'],interests='APIs',
+        graduation_year=2027,preferred_locations=['India']),path)
+    other=db.authenticate(db.create_user('Other',path),path)['id']
+    observed=[]
+    def search(query):
+        observed.append(db.get_profile(uid,path).skills)
+        return {'results':[],'omitted':{}}
+    client=FakeClient([response([('update_preferences',{'add_skills':['Docker','JS'],
+        'remove_skills':['Java']})]),response([('search_jobs',{'query':'backend'})]),response(text='Updated.')])
+    agent=Agent(uid,'unused',search,path,client)
+    proposed=agent.start('I also know Docker and JS. Remove Java.')
+    assert db.get_profile(uid,path).skills==['java','python']
+    agent.resume(proposed['pending'],True)
+    saved=db.get_profile(uid,path)
+    assert saved.skills==['docker','javascript','python']
+    assert saved.interests=='APIs' and saved.graduation_year==2027
+    assert saved.preferred_locations==['india']
+    assert observed==[saved.skills]
+    assert db.get_profile(other,path).skills==[]
+
+
+def test_cancelled_skill_update_leaves_profile_unchanged(database):
+    path,uid,_=database
+    db.save_profile(uid,Profile(skills=['Python']),path)
+    agent=Agent(uid,'unused',lambda q:None,path,FakeClient([
+        response([('update_preferences',{'add_skills':['Docker'],'remove_skills':['Python']})]),
+        response(text='Cancelled.')]))
+    proposed=agent.start('Replace Python with Docker')
+    agent.resume(proposed['pending'],False)
+    assert db.get_profile(uid,path).skills==['python']
+
+
+@pytest.mark.parametrize('change',[
+    {'add_skills':['JS'],'remove_skills':['javascript']},
+    {'skills':['Docker']},
+    {'add_skills':'Docker'},
+    {'add_skills':['Docker'],'user_id':99},
+])
+def test_invalid_skill_proposals_do_not_mutate_profile(database,change):
+    path,uid,_=database
+    agent=Agent(uid,'unused',lambda q:None,path,FakeClient([response([('update_preferences',change)])]))
+    outcome=agent.start('Change skills')
+    assert 'pending' not in outcome
+    assert db.get_profile(uid,path).skills==[]
+
+
+def test_skill_limit_checked_before_confirmation(database):
+    path,uid,_=database
+    db.save_profile(uid,Profile(skills=[f'skill{i}' for i in range(40)]),path)
+    agent=Agent(uid,'unused',lambda q:None,path,FakeClient([
+        response([('update_preferences',{'add_skills':['Docker']})])]))
+    outcome=agent.start('I also know Docker')
+    assert 'pending' not in outcome
+    assert len(db.get_profile(uid,path).skills)==40
+
+
+def test_search_tool_does_not_add_requested_technology(database):
+    path,uid,_=database
+    agent=Agent(uid,'unused',lambda q:{'results':[],'omitted':{}},path,FakeClient([
+        response([('search_jobs',{'query':'React internships'})]),response(text='Results.')]))
+    agent.start('Find React internships')
+    assert db.get_profile(uid,path).skills==[]

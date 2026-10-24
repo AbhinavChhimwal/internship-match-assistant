@@ -6,7 +6,7 @@ import sqlite3
 from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path
-from schemas import Profile, PreferenceArgs
+from schemas import Profile, PreferenceArgs, preference_skills
 from settings import STATE_DIR
 import cloud_storage
 
@@ -178,6 +178,16 @@ def get_profile(uid, path=None):
 def update_preferences(uid, args: PreferenceArgs, path=None):
     # Read and update in one transaction, preserving unrelated fields.
     with connect(path) as con:
+        if args.add_skills or args.remove_skills:
+            query='SELECT skills_json FROM profiles WHERE user_id=?'
+            if cloud_storage.enabled(path):
+                query+=' FOR UPDATE'
+            row=con.execute(query,(uid,)).fetchone()
+            if row is None:
+                raise ValueError('Profile not found')
+            skills=preference_skills(json.loads(row['skills_json']),args)
+            con.execute('UPDATE profiles SET skills_json=?,updated_at=? WHERE user_id=?',
+                (json.dumps(skills),now(),uid))
         if args.remote_only is not None:
             con.execute('UPDATE profiles SET remote_only=?,updated_at=? WHERE user_id=?',
                         (int(args.remote_only),now(),uid))

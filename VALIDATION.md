@@ -76,3 +76,14 @@ creation, pause/restore timing and deployed startup remain unverified until the
 owner enters credentials privately. No cloud project or deployment was created.
 See `docs/STREAMLIT_SUPABASE.md` for setup and live checks.
 
+# Cloud startup reruns (2026-10-25)
+
+Cloud schema/catalog/index initialization and its startup spinner now execute
+once per successful configuration per server process, shared across sessions.
+Initialization failures remain retryable, configuration changes invalidate the
+guard, and ordinary account-scoped reads/writes remain uncached. Four regression
+cases cover repeated calls, concurrent sessions, failed initialization and changed
+configuration. All 60 tests passed in 26.27 seconds. Real secrets were not modified;
+tests isolate the configured cloud database. Hosted behavior must be checked after
+the deployment picks up this commit.
+

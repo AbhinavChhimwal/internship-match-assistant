@@ -142,3 +142,57 @@ def test_cloud_restart_preserves_admin_listing_and_csv_export(tmp_path, monkeypa
     assert b'Persistent test role' in catalog_admin.export_catalog(admin)
     with pytest.raises(PermissionError):
         catalog_admin.add_job(db.authenticate('DUMMY')['id'],job)
+
+
+@pytest.fixture
+def startup(monkeypatch):
+    import cloud_startup
+    monkeypatch.setattr(cloud_startup,'_ready_key',None)
+    values={'DATABASE_URL':'postgresql://example.invalid/test','ADMIN_ACCESS_CODE':'test-code'}
+    monkeypatch.setattr(cloud_startup,'secret',lambda name: values.get(name,''))
+    calls=[]
+    monkeypatch.setattr(supabase_wake,'ensure_awake',lambda: calls.append('wake'))
+    monkeypatch.setattr(db,'init_db',lambda: calls.append('schema'))
+    monkeypatch.setattr(cloud_startup,'prepare_catalog',lambda: calls.append('catalog'))
+    return cloud_startup,values,calls
+
+
+def test_cloud_initialization_and_spinner_run_once_across_reruns(startup):
+    from contextlib import contextmanager
+    module,values,calls=startup
+    @contextmanager
+    def progress():
+        calls.append('spinner')
+        yield
+    for _ in range(5):
+        module.initialize_cloud(progress)
+    assert calls==['spinner','wake','schema','catalog']
+
+
+def test_cloud_initialization_retries_failure(startup,monkeypatch):
+    module,values,calls=startup
+    def unavailable():
+        raise cloud_storage.StorageUnavailable('Temporary outage')
+    monkeypatch.setattr(module,'prepare_catalog',unavailable)
+    with pytest.raises(cloud_storage.StorageUnavailable):
+        module.initialize_cloud()
+    assert module._ready_key is None
+    monkeypatch.setattr(module,'prepare_catalog',lambda: calls.append('catalog'))
+    module.initialize_cloud()
+    assert calls==['wake','schema','wake','schema','catalog']
+
+
+def test_cloud_initialization_rechecks_changed_configuration(startup):
+    module,values,calls=startup
+    module.initialize_cloud()
+    values['DATABASE_URL']='postgresql://different.invalid/test'
+    module.initialize_cloud()
+    assert calls==['wake','schema','catalog']*2
+
+
+def test_cloud_initialization_is_shared_by_concurrent_sessions(startup):
+    from concurrent.futures import ThreadPoolExecutor
+    module,values,calls=startup
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        list(executor.map(lambda _: module.initialize_cloud(),range(8)))
+    assert calls==['wake','schema','catalog']

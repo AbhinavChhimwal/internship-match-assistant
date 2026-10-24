@@ -15,14 +15,8 @@ st.set_page_config(page_title='Internship Match', page_icon='🎓', layout='wide
 import cloud_storage
 try:
     if cloud_storage.enabled():
-        from supabase_wake import ensure_awake
-        from cloud_startup import prepare_catalog
-        with st.spinner('Connecting to saved data…'):
-            message=st.empty()
-            ensure_awake(notify=message.info)
-            db.init_db()
-            prepare_catalog()
-            message.empty()
+        from cloud_startup import initialize_cloud
+        initialize_cloud(progress=lambda: st.spinner('Connecting to saved data…'))
     else:
         db.init_db()
 except cloud_storage.StorageUnavailable as error:

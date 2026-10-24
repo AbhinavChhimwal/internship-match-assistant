@@ -1,0 +1,73 @@
+from types import SimpleNamespace as NS
+from google.genai import types
+from agent import Agent
+import db
+
+def response(calls=(),text=None):
+    return NS(function_calls=[NS(name=n,args=a) for n,a in calls],text=text,
+        candidates=[NS(content=types.Content(role='model',parts=[types.Part.from_text(text='fixture')]))])
+
+class FakeClient:
+    def __init__(self,responses):
+        self.responses=iter(responses)
+        self.models=self
+        self.count=0
+    def generate_content(self,**kwargs):
+        self.count+=1
+        return next(self.responses)
+
+def test_confirmation_then_search(database):
+    path,uid,_=database
+    seen=[]
+    def search(query):
+        seen.append(db.get_profile(uid,path).remote_only)
+        return {'results':[],'omitted':{}}
+    client=FakeClient([response([('update_preferences',{'remote_only':True})]),
+        response([('search_jobs',{'query':'python'})]),response(text='No matches.')])
+    agent=Agent(uid,'unused',search,path,client)
+    outcome=agent.start('Only remote roles')
+    assert 'pending' in outcome
+    assert not db.get_profile(uid,path).remote_only
+    agent.resume(outcome['pending'],True)
+    assert db.get_profile(uid,path).remote_only
+    assert seen==[True]
+
+def test_cancel_and_reject_invalid_user(database):
+    path,uid,_=database
+    client=FakeClient([response([('update_preferences',{'remote_only':True})]),response(text='Cancelled')])
+    agent=Agent(uid,'unused',lambda q:None,path,client)
+    outcome=agent.start('Only remote')
+    agent.resume(outcome['pending'],False)
+    assert not db.get_profile(uid,path).remote_only
+    agent.client=FakeClient([response([('update_preferences',{'user_id':99})])])
+    assert 'could not be completed' in agent.start('attack')['text']
+
+def test_tool_budget_and_provider_failure(database):
+    path,uid,_=database
+    search=lambda q:{'results':[],'omitted':{}}
+    client=FakeClient([response([('search_jobs',{'query':'python'})])]*5)
+    agent=Agent(uid,'unused',search,path,client)
+    assert 'limit' in agent.start('Search')['text']
+    assert client.count==3
+    agent.client=FakeClient([])
+    assert 'unavailable' in agent.start('Search')['text']
+
+def test_transient_retry_charged_and_quota_not_retried(database):
+    path,uid,_=database
+    class Failure(Exception):
+        def __init__(self,code): self.code=code
+    class FlakyClient:
+        def __init__(self,code): self.code=code; self.count=0; self.models=self
+        def generate_content(self,**kwargs):
+            self.count+=1
+            if self.count==1: raise Failure(self.code)
+            return response(text='Try Matches.')
+    charges=[]
+    client=FlakyClient(503)
+    agent=Agent(uid,'unused',lambda q:None,path,client,charge=lambda: charges.append(1))
+    assert not agent.start('hello').get('error')
+    assert client.count==2 and len(charges)==2
+    client=FlakyClient(429)
+    agent.client=client
+    assert agent.start('hello')['error']
+    assert client.count==1

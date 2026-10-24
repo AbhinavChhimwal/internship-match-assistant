@@ -1,0 +1,8 @@
+{
+  "pdf_extraction": true,
+  "txt_extraction": true,
+  "new_resume_resets_old_and_manual_skills": true,
+  "latest_resume_persisted": true,
+  "semantic_search_from_extracted_profile": true,
+  "result_count": 5
+}

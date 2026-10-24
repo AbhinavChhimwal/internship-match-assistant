@@ -1,0 +1,46 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "checks": [
+    {
+      "case": "search",
+      "passed": true,
+      "provider_error": false,
+      "confirmation_requested": false,
+      "unchanged_before_confirm": true,
+      "search_executed": true
+    },
+    {
+      "case": "remote",
+      "passed": true,
+      "provider_error": false,
+      "confirmation_requested": true,
+      "unchanged_before_confirm": true,
+      "search_executed": true
+    },
+    {
+      "case": "location",
+      "passed": true,
+      "provider_error": false,
+      "confirmation_requested": true,
+      "unchanged_before_confirm": true,
+      "search_executed": true
+    },
+    {
+      "case": "clear",
+      "passed": true,
+      "provider_error": false,
+      "confirmation_requested": true,
+      "unchanged_before_confirm": true,
+      "search_executed": true
+    },
+    {
+      "case": "unsupported",
+      "passed": true,
+      "provider_error": false,
+      "confirmation_requested": false,
+      "unchanged_before_confirm": true,
+      "search_executed": false
+    }
+  ],
+  "all_passed": true
+}

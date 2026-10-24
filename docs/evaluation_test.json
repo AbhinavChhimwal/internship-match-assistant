@@ -1,0 +1,274 @@
+{
+  "split": "test",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dataset_fingerprint": "b7222fe6837370427a1f4030936a0acd8c29871df05b53abb0fb0872a67054cd",
+  "hardware": {
+    "platform": "Windows-11-10.0.26300-SP0",
+    "processor": "AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",
+    "logical_cpus": 12
+  },
+  "timing": "Model loading excluded; warmed query encoding and in-memory filters/ranking included; median of five runs.",
+  "limitations": "Ten fictional profiles, author-provided relevance labels, small eligible subset. Not evidence of hiring success or general model superiority.",
+  "summary": {
+    "keyword": {
+      "mean_precision_at_5": 0.44,
+      "evaluated_profiles": 5,
+      "constraint_violations": 0,
+      "median_latency_ms": 0.049
+    },
+    "semantic": {
+      "mean_precision_at_5": 0.52,
+      "evaluated_profiles": 5,
+      "constraint_violations": 0,
+      "median_latency_ms": 15.55
+    },
+    "combined": {
+      "mean_precision_at_5": 0.48,
+      "evaluated_profiles": 5,
+      "constraint_violations": 0,
+      "median_latency_ms": 15.692
+    }
+  },
+  "cases": [
+    {
+      "case": "test-ui",
+      "method": "keyword",
+      "eligible_count": 10,
+      "precision_at_5": 0.8,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 0.047,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/monzo/jobs/8156261",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://job-boards.greenhouse.io/andurilindustries/jobs/5269977007",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
+      ]
+    },
+    {
+      "case": "test-ui",
+      "method": "semantic",
+      "eligible_count": 10,
+      "precision_at_5": 0.6,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 17.066,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191"
+      ]
+    },
+    {
+      "case": "test-ui",
+      "method": "combined",
+      "eligible_count": 10,
+      "precision_at_5": 0.6,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 14.684,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191",
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005"
+      ]
+    },
+    {
+      "case": "test-lowlatency",
+      "method": "keyword",
+      "eligible_count": 10,
+      "precision_at_5": 0.2,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 0.049,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+        "https://job-boards.greenhouse.io/monzo/jobs/8156261",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://job-boards.greenhouse.io/andurilindustries/jobs/5269977007"
+      ]
+    },
+    {
+      "case": "test-lowlatency",
+      "method": "semantic",
+      "eligible_count": 10,
+      "precision_at_5": 0.6,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 15.898,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+        "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191"
+      ]
+    },
+    {
+      "case": "test-lowlatency",
+      "method": "combined",
+      "eligible_count": 10,
+      "precision_at_5": 0.4,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 16.185,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191",
+        "https://job-boards.greenhouse.io/monzo/jobs/8156261"
+      ]
+    },
+    {
+      "case": "test-finance",
+      "method": "keyword",
+      "eligible_count": 10,
+      "precision_at_5": 0.2,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 0.053,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/andurilindustries/jobs/5269977007",
+        "https://job-boards.greenhouse.io/monzo/jobs/8156261",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
+      ]
+    },
+    {
+      "case": "test-finance",
+      "method": "semantic",
+      "eligible_count": 10,
+      "precision_at_5": 0.4,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 15.55,
+      "returned_urls": [
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191",
+        "https://job-boards.greenhouse.io/andurilindustries/jobs/5269977007",
+        "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+        "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006"
+      ]
+    },
+    {
+      "case": "test-finance",
+      "method": "combined",
+      "eligible_count": 10,
+      "precision_at_5": 0.4,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 15.692,
+      "returned_urls": [
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191",
+        "https://job-boards.greenhouse.io/andurilindustries/jobs/5269977007",
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://job-boards.greenhouse.io/monzo/jobs/8156261"
+      ]
+    },
+    {
+      "case": "test-platform",
+      "method": "keyword",
+      "eligible_count": 10,
+      "precision_at_5": 0.8,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 0.048,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/andurilindustries/jobs/5269977007",
+        "https://job-boards.greenhouse.io/monzo/jobs/8156261",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
+      ]
+    },
+    {
+      "case": "test-platform",
+      "method": "semantic",
+      "eligible_count": 10,
+      "precision_at_5": 0.4,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 15.527,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191",
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
+      ]
+    },
+    {
+      "case": "test-platform",
+      "method": "combined",
+      "eligible_count": 10,
+      "precision_at_5": 0.4,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 16.515,
+      "returned_urls": [
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191",
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+        "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
+        "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002"
+      ]
+    },
+    {
+      "case": "test-research",
+      "method": "keyword",
+      "eligible_count": 10,
+      "precision_at_5": 0.2,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 0.053,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+        "https://job-boards.greenhouse.io/andurilindustries/jobs/5269977007",
+        "https://job-boards.greenhouse.io/monzo/jobs/8156261",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
+      ]
+    },
+    {
+      "case": "test-research",
+      "method": "semantic",
+      "eligible_count": 10,
+      "precision_at_5": 0.6,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 15.318,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+        "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
+      ]
+    },
+    {
+      "case": "test-research",
+      "method": "combined",
+      "eligible_count": 10,
+      "precision_at_5": 0.6,
+      "comparison_note": null,
+      "constraint_violations": [],
+      "median_latency_ms": 13.426,
+      "returned_urls": [
+        "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+        "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+        "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191",
+        "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
+      ]
+    }
+  ]
+}

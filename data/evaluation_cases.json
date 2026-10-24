@@ -1,0 +1,212 @@
+[
+  {
+    "id": "dev-web",
+    "split": "dev",
+    "profile": {
+      "skills": [
+        "javascript",
+        "react"
+      ],
+      "interests": "Build accessible web interfaces",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/monzo/jobs/8156261",
+      "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+      "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+      "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+      "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
+    ],
+    "rationale": "Relevant to web interests based on manually read role descriptions."
+  },
+  {
+    "id": "dev-quant",
+    "split": "dev",
+    "profile": {
+      "skills": [
+        "python",
+        "c++",
+        "algorithms"
+      ],
+      "interests": "Quantitative trading systems",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+      "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005"
+    ],
+    "rationale": "Relevant to quant interests based on manually read role descriptions."
+  },
+  {
+    "id": "dev-data",
+    "split": "dev",
+    "profile": {
+      "skills": [
+        "python",
+        "sql",
+        "excel"
+      ],
+      "interests": "Financial analytics and dashboards",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/andurilindustries/jobs/5269977007",
+      "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191"
+    ],
+    "rationale": "Relevant to analytics interests based on manually read role descriptions."
+  },
+  {
+    "id": "dev-backend",
+    "split": "dev",
+    "profile": {
+      "skills": [
+        "go",
+        "postgres"
+      ],
+      "interests": "Banking backend and platform engineering",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/monzo/jobs/8156261",
+      "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+      "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+      "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+      "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
+    ],
+    "rationale": "Relevant to web interests based on manually read role descriptions."
+  },
+  {
+    "id": "dev-ml",
+    "split": "dev",
+    "profile": {
+      "skills": [
+        "python",
+        "pytorch",
+        "unix"
+      ],
+      "interests": "Machine learning for systematic trading",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+      "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005"
+    ],
+    "rationale": "Relevant to quant interests based on manually read role descriptions."
+  },
+  {
+    "id": "test-ui",
+    "split": "test",
+    "profile": {
+      "skills": [
+        "typescript",
+        "css"
+      ],
+      "interests": "Frontend product development",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/monzo/jobs/8156261",
+      "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+      "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+      "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+      "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
+    ],
+    "rationale": "Relevant to web interests based on manually read role descriptions."
+  },
+  {
+    "id": "test-lowlatency",
+    "split": "test",
+    "profile": {
+      "skills": [
+        "c++",
+        "data structures"
+      ],
+      "interests": "Low latency financial systems",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+      "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005"
+    ],
+    "rationale": "Relevant to quant interests based on manually read role descriptions."
+  },
+  {
+    "id": "test-finance",
+    "split": "test",
+    "profile": {
+      "skills": [
+        "sql",
+        "financial statements"
+      ],
+      "interests": "Finance reporting and workflow automation",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/andurilindustries/jobs/5269977007",
+      "https://jobs.ashbyhq.com/leland/a2c2c00d-2b9d-4e5c-bf15-289473ba1191"
+    ],
+    "rationale": "Relevant to analytics interests based on manually read role descriptions."
+  },
+  {
+    "id": "test-platform",
+    "split": "test",
+    "profile": {
+      "skills": [
+        "python",
+        "django"
+      ],
+      "interests": "Scalable customer software and platform engineering",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/monzo/jobs/8156261",
+      "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+      "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+      "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+      "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
+    ],
+    "rationale": "Relevant to web interests based on manually read role descriptions."
+  },
+  {
+    "id": "test-research",
+    "split": "test",
+    "profile": {
+      "skills": [
+        "python",
+        "machine learning",
+        "unix"
+      ],
+      "interests": "Quantitative development and trading research",
+      "graduation_year": 2028,
+      "remote_only": false,
+      "preferred_locations": []
+    },
+    "relevant_urls": [
+      "https://job-boards.greenhouse.io/globalcampus/jobs/8780794002",
+      "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005"
+    ],
+    "rationale": "Relevant to quant interests based on manually read role descriptions."
+  }
+]

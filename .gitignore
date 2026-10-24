@@ -1,0 +1,16 @@
+.venv/
+.uv-cache/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+runtime/
+*.db
+*.db-shm
+*.db-wal
+data/job_embeddings.npy
+data/job_ids.json
+data/embedding_manifest.json
+data/evaluation_report.json

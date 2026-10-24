@@ -1,0 +1,953 @@
+[
+  {
+    "source_url": "https://job-boards.greenhouse.io/cloudsek/jobs/6115382004",
+    "employer_board": "cloudsek",
+    "posting_id": 6115382004,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/cloudsek/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
+    "employer_board": "hackerrank",
+    "posting_id": 8229735,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8143756,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8031833",
+    "employer_board": "stripe",
+    "posting_id": 8031833,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+    "employer_board": "databricks",
+    "posting_id": 6865687002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate in fall 2027 or spring 2028 with a degree in Computer Science, Engineering, or related subject You"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
+    "employer_board": "databricks",
+    "posting_id": 6866531002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate between fall 2027 and summer 2028 with a degree in Computer Science, Engineering, or related subject You"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
+    "employer_board": "databricks",
+    "posting_id": 6866534002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate between fall 2027 and Summer 2028 with a degree in Computer Science, Engineering, or related subject You"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+    "employer_board": "databricks",
+    "posting_id": 6866538002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate in fall 2027 or spring 2028 with a Master's or PhD degree in a quantitative field (e.g.,"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+    "employer_board": "databricks",
+    "posting_id": 6883068002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduating in Fall 2027 or Spring 2028 You've used AI tooling for both personal productivity and development projects"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+    "employer_board": "databricks",
+    "posting_id": 7011263002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002",
+    "employer_board": "databricks",
+    "posting_id": 7640764002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate between fall 2027 and Summer 2028 with a degree in Computer Science, Engineering, or related subject You"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002",
+    "employer_board": "databricks",
+    "posting_id": 8133710002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate between fall 2027 and summer 2028 with a degree in Computer Science, Engineering, or related subject You"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
+    "employer_board": "databricks",
+    "posting_id": 8133715002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002",
+    "employer_board": "databricks",
+    "posting_id": 8145776002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+    "employer_board": "databricks",
+    "posting_id": 8787352002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduation date of December 2027 or Spring 2028 You have excellent interaction design skills with knowledge of user-centered"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
+    "employer_board": "databricks",
+    "posting_id": 8847738002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate between Autumn 2027 and Summer 2028 with a degree in Computer Science, Engineering, or related subject You"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002",
+    "employer_board": "databricks",
+    "posting_id": 8863328002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduating between Fall 2027 and Summer 2028 You've used AI tooling for both personal productivity and development projects"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/globalcampus/jobs/8780785002",
+    "employer_board": "globalcampus",
+    "posting_id": 8780785002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/globalcampus/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate, Master's or PhD student in a quantitative discipline (math, physics, computer science, statistics, or a related field),"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/globalcampus/jobs/8881066002",
+    "employer_board": "globalcampus",
+    "posting_id": 8881066002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/globalcampus/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduating 2028 Strong programming skills in Python and/or C++ Depth in probability, statistics, linear algebra and optimization, with"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003",
+    "employer_board": "klaviyocampus",
+    "posting_id": 7989365003,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/klaviyocampus/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "Graduating in December 2027 or May/June 2028 Experience with some of these technologies and languages: Python, Django, Typescript,"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003",
+    "employer_board": "klaviyocampus",
+    "posting_id": 7999274003,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/klaviyocampus/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "Graduating in December 2027 or May/June 2028 Previous internship experience in AI, machine learning, or related fields, with"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003",
+    "employer_board": "klaviyocampus",
+    "posting_id": 8003260003,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/klaviyocampus/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "Graduating in December 2027 or May/June 2028 Previous internship experience in AI, machine learning, or related fields, with"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+    "employer_board": "mongodb",
+    "posting_id": 8209134,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "Graduation date in Fall 2027, Spring 2028, Summer 2028, Fall 2028, Spring 2029 or Summer 2029. Must be"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
+    "employer_board": "mongodb",
+    "posting_id": 8258279,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "Graduation date in, Spring 2028 or Summer 2028. Must be authorized to work in Ireland and provide the"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+    "employer_board": "mongodb",
+    "posting_id": 8267099,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "Graduation date in, Spring 2028, Summer 2028, Fall 2028, Spring 2029 or Summer 2029. Must be authorized to"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 7011493,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 7077280,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8024128,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8024138,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8037860",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8037860,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "2028 Graduates (explicit in posting title)"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8044334,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8113986,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8138524,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8168634",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8168634,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8168750",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8168750,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8299894",
+    "employer_board": "towerresearchcapital",
+    "posting_id": 8299894,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/towerresearchcapital/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8097801",
+    "employer_board": "stripe",
+    "posting_id": 8097801,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "employer_board": "stripe",
+    "posting_id": 8128745,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "employer_board": "stripe",
+    "posting_id": 8130805,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8130807",
+    "employer_board": "stripe",
+    "posting_id": 8130807,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "employer_board": "stripe",
+    "posting_id": 8130867,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "employer_board": "stripe",
+    "posting_id": 8130883,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8186367",
+    "employer_board": "stripe",
+    "posting_id": 8186367,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8186442",
+    "employer_board": "stripe",
+    "posting_id": 8186442,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8194283",
+    "employer_board": "stripe",
+    "posting_id": 8194283,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduating in December 2027 or spring/summer 2028 Experience with SQL and a scientific computing language (such as Python,"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8194285",
+    "employer_board": "stripe",
+    "posting_id": 8194285,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduating in December 2027 or spring/summer 2028 Experience with SQL and a scientific computing language (such as Python,"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "employer_board": "stripe",
+    "posting_id": 8194287,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduating in December 2027 or spring/summer 2028 Experience with SQL Proficiency with AI tools to accelerate model development,"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "employer_board": "stripe",
+    "posting_id": 8194291,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduating in December 2027 or spring/summer 2028 Experience with SQL Proficiency with AI tools to accelerate model development,"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+    "employer_board": "affirm",
+    "posting_id": 8008645003,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/affirm/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+    "employer_board": "affirm",
+    "posting_id": 8011375003,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/affirm/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+    "employer_board": "affirm",
+    "posting_id": 8011590003,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/affirm/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+    "employer_board": "cloudflare",
+    "posting_id": 8199958,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+    "employer_board": "cloudflare",
+    "posting_id": 8245197,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+    "employer_board": "cloudflare",
+    "posting_id": 8245211,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+    "employer_board": "coinbase",
+    "posting_id": 8168315,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322",
+    "employer_board": "coinbase",
+    "posting_id": 8168322,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339",
+    "employer_board": "coinbase",
+    "posting_id": 8175339,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
+    "employer_board": "coinbase",
+    "posting_id": 8175360,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+    "employer_board": "coinbase",
+    "posting_id": 8175441,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+    "employer_board": "coinbase",
+    "posting_id": 8175459,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+    "employer_board": "coinbase",
+    "posting_id": 8175462,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+    "employer_board": "coinbase",
+    "posting_id": 8175471,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+    "employer_board": "coinbase",
+    "posting_id": 8175510,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
+    "employer_board": "coinbase",
+    "posting_id": 8175873,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/coinbase/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+    "employer_board": "datadog",
+    "posting_id": 8052118,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+    "employer_board": "datadog",
+    "posting_id": 8108241,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+    "employer_board": "datadog",
+    "posting_id": 8114161,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate in 2027 with a degree in Computer Science, Software Engineering, or a related technical field from a"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+    "employer_board": "datadog",
+    "posting_id": 8114186,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440",
+    "employer_board": "datadog",
+    "posting_id": 8181440,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduate in 2027 with a degree in Machine Learning, Artificial Intelligence, Statistics, Computer Science, or a related field"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657",
+    "employer_board": "datadog",
+    "posting_id": 8203657,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+    "employer_board": "duolingo",
+    "posting_id": 8888721002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/duolingo/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "graduation in Fall 2027 or Spring/Summer 2028 Strong understanding of consumer digital products and an interest in applying"
+    ],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+    "employer_board": "duolingo",
+    "posting_id": 8888848002,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/duolingo/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230677",
+    "employer_board": "ecjobb",
+    "posting_id": 8230677,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230686",
+    "employer_board": "ecjobb",
+    "posting_id": 8230686,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230687",
+    "employer_board": "ecjobb",
+    "posting_id": 8230687,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230690",
+    "employer_board": "ecjobb",
+    "posting_id": 8230690,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230749",
+    "employer_board": "ecjobb",
+    "posting_id": 8230749,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750",
+    "employer_board": "ecjobb",
+    "posting_id": 8230750,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230755",
+    "employer_board": "ecjobb",
+    "posting_id": 8230755,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230777",
+    "employer_board": "ecjobb",
+    "posting_id": 8230777,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231463",
+    "employer_board": "ecjobb",
+    "posting_id": 8231463,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231504",
+    "employer_board": "ecjobb",
+    "posting_id": 8231504,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231510",
+    "employer_board": "ecjobb",
+    "posting_id": 8231510,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/ecjobb/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+    "employer_board": "figma",
+    "posting_id": 6143238004,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
+    "employer_board": "figma",
+    "posting_id": 6152695004,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+    "employer_board": "figma",
+    "posting_id": 6178851004,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+    "employer_board": "figma",
+    "posting_id": 6178857004,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004",
+    "employer_board": "figma",
+    "posting_id": 6180005004,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+    "employer_board": "figma",
+    "posting_id": 6200626004,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
+    "employer_board": "figma",
+    "posting_id": 6207801004,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004",
+    "employer_board": "figma",
+    "posting_id": 6219995004,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://nuro.ai/careersitem?gh_jid=7351061",
+    "employer_board": "nuro",
+    "posting_id": 7351061,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/nuro/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+    "employer_board": "pinterest",
+    "posting_id": 7838577,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/pinterest/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034",
+    "employer_board": "pinterest",
+    "posting_id": 8138034,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/pinterest/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
+    "employer_board": "pinterest",
+    "posting_id": 8138039,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/pinterest/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+    "employer_board": "pinterest",
+    "posting_id": 8138080,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/pinterest/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+    "employer_board": "pinterest",
+    "posting_id": 8138090,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/pinterest/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+    "employer_board": "pinterest",
+    "posting_id": 8138097,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/pinterest/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
+    "employer_board": "pinterest",
+    "posting_id": 8140140,
+    "published_jobs_api": "https://boards-api.greenhouse.io/v1/boards/pinterest/jobs?content=true",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [],
+    "note": "Reviewed title/location and qualification excerpts from employer-published data. Unknown fields remain unknown."
+  },
+  {
+    "source_url": "https://careers.cargill.com/en/job/bengaluru/software-engineer-intern-digital-technology-and-data/23251/100079360032",
+    "checked_at": "2026-10-24",
+    "graduation_evidence": [
+      "Graduating with a degree in June 2027"
+    ],
+    "note": "Reviewed the employer listing; multiple onsite days weekly required."
+  }
+]

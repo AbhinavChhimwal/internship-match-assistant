@@ -1,0 +1,1798 @@
+[
+  {
+    "source_url": "https://job-boards.greenhouse.io/cloudsek/jobs/6115382004",
+    "title": "Security Consultant Intern",
+    "company": "CloudSEK",
+    "description": "Security internship involving technical investigation and security engineering. Technologies/concepts mentioned (not all mandatory): machine learning. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Bengaluru, Karnataka, India",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "bengaluru",
+      "india"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
+    "title": "Software Development Engineer Intern",
+    "company": "HackerRank",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): go. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "onsite",
+    "location": "Onsite in Bangalore",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "bengaluru",
+      "india"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
+    "title": "Intern - AI/ML",
+    "company": "Tower Research Capital",
+    "description": "Internship focused on applied machine learning or AI systems. Technologies/concepts mentioned (not all mandatory): python, sql, linux, pytorch, tensorflow, machine learning, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "onsite",
+    "location": "Gurgaon",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "gurugram",
+      "india"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8031833",
+    "title": "Software Engineer, Intern",
+    "company": "Stripe",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): javascript, java, go, ruby, scala. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Bengaluru",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "bengaluru",
+      "india"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+    "title": "Software Engineering Intern (2027)",
+    "company": "Databricks",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, java, c++, data structures, algorithms. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "algorithms",
+      "data structures",
+      "object-oriented programming"
+    ],
+    "work_mode": null,
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "bellevue",
+      "canada",
+      "mountain view",
+      "san francisco",
+      "united states",
+      "vancouver"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
+    "title": "Software Engineering Intern (2027 Start) - Berlin",
+    "company": "Databricks",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, java, c++, data structures, algorithms. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "algorithms",
+      "data structures",
+      "object-oriented programming"
+    ],
+    "work_mode": null,
+    "location": "Berlin, Germany",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "berlin",
+      "germany"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
+    "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+    "company": "Databricks",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, java, c++, data structures, algorithms. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "algorithms",
+      "data structures",
+      "object-oriented programming"
+    ],
+    "work_mode": null,
+    "location": "Amsterdam, Netherlands",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "amsterdam",
+      "netherlands"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+    "title": "Data Science Intern (2027 Start)",
+    "company": "Databricks",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, machine learning, algorithms, statistics. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "machine learning",
+      "python",
+      "sql"
+    ],
+    "work_mode": null,
+    "location": "Mountain View, California; San Francisco, California",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "mountain view",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+    "title": "Product Management Intern (Summer 2027)",
+    "company": "Databricks",
+    "description": "Product internship working with technical teams on software products. Technologies/concepts mentioned (not all mandatory): python, sql, machine learning. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "bellevue",
+      "mountain view",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+    "title": "PhD GenAI Research Scientist Intern",
+    "company": "Databricks",
+    "description": "Internship focused on applied machine learning or AI systems. Technologies/concepts mentioned (not all mandatory): pytorch. Exact graduation-year eligibility is not verified. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, California",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002",
+    "title": "Software Engineering Intern (2027 Start) - Belgrade",
+    "company": "Databricks",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, java, c++, data structures, algorithms. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "algorithms",
+      "data structures",
+      "object-oriented programming"
+    ],
+    "work_mode": null,
+    "location": "Belgrade, Serbia",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "belgrade",
+      "serbia"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002",
+    "title": "Software Engineering Intern (2027 Start) - Aarhus",
+    "company": "Databricks",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, java, c++, data structures, algorithms. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "algorithms",
+      "data structures",
+      "object-oriented programming"
+    ],
+    "work_mode": null,
+    "location": "Aarhus, Denmark",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "aarhus",
+      "denmark"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
+    "title": "Product Management Intern (2027) - Amsterdam",
+    "company": "Databricks",
+    "description": "Product internship working with technical teams on software products. Technologies/concepts mentioned (not all mandatory): python, sql. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Amsterdam, Netherlands",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "amsterdam",
+      "netherlands"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002",
+    "title": "Product Management Intern (2027) - Berlin",
+    "company": "Databricks",
+    "description": "Product internship working with technical teams on software products. Technologies/concepts mentioned (not all mandatory): python, sql. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Berlin, Germany",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "berlin",
+      "germany"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+    "title": "Product Design Intern (2027 Start)",
+    "company": "Databricks",
+    "description": "Design internship involving product interfaces or user experience. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, California; Seattle, Washington",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "seattle",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
+    "title": "Software Engineering Intern (2027 Start) - London",
+    "company": "Databricks",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, java, c++, data structures, algorithms. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "algorithms",
+      "data structures",
+      "object-oriented programming"
+    ],
+    "work_mode": null,
+    "location": "London, United Kingdom",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "london",
+      "united kingdom"
+    ]
+  },
+  {
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002",
+    "title": "Product Management Intern (2027) - Belgrade",
+    "company": "Databricks",
+    "description": "Product internship working with technical teams on software products. Technologies/concepts mentioned (not all mandatory): python, sql. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Belgrade, Serbia",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "belgrade",
+      "serbia"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/globalcampus/jobs/8780785002",
+    "title": "2027 Summer Internship - Quantitative Researcher",
+    "company": "Graviton Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, machine learning, statistics. Stated graduation years: 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Singapore, London, Amsterdam, US",
+    "eligible_graduation_years": [
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "amsterdam",
+      "london",
+      "netherlands",
+      "singapore",
+      "united kingdom"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/globalcampus/jobs/8881066002",
+    "title": "Quantitative Researcher (PhD) - 2027 Internship",
+    "company": "Graviton Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, machine learning, statistics. Stated graduation years: 2028; check the exact month window in the listing. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Amsterdam, North Holland, Netherlands, London, England, United Kingdom, New York, Singapore",
+    "eligible_graduation_years": [
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "amsterdam",
+      "london",
+      "netherlands",
+      "new york",
+      "singapore",
+      "united kingdom",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003",
+    "title": "Software Engineer Co-op (Spring 2027)",
+    "company": "Klaviyo",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, typescript, react, go, statistics. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Boston, MA",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003",
+    "title": "Machine Learning Engineer Internship-Summer 2027",
+    "company": "Klaviyo",
+    "description": "Internship focused on applied machine learning or AI systems. Technologies/concepts mentioned (not all mandatory): python, go, pytorch, machine learning. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Palo Alto, CA",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "palo alto",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003",
+    "title": "AI Engineer Intern (Summer 2027)",
+    "company": "Klaviyo",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, go, machine learning. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Boston, MA",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+    "title": "2027 - Software Engineering Intern, AMER",
+    "company": "MongoDB",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, java, c++, go, aws, data structures, algorithms. Stated graduation years: 2027, 2028, 2029; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Austin; New York City; San Francisco",
+    "eligible_graduation_years": [
+      2027,
+      2028,
+      2029
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "austin",
+      "new york",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
+    "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
+    "company": "MongoDB",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, java, c++, go, aws, data structures, algorithms. Stated graduation years: 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Dublin",
+    "eligible_graduation_years": [
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "dublin",
+      "ireland"
+    ]
+  },
+  {
+    "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+    "title": "2027 - Summer Software Engineer Intern, Dublin",
+    "company": "MongoDB",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, java, c++, go, aws, data structures, algorithms. Stated graduation years: 2028, 2029; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Dublin",
+    "eligible_graduation_years": [
+      2028,
+      2029
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "dublin",
+      "ireland"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
+    "title": "Quantitative Developer Intern",
+    "company": "Tower Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, numpy, pandas, machine learning. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "python"
+    ],
+    "work_mode": null,
+    "location": "Paris",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "france",
+      "paris"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+    "title": "Machine Learning Intern",
+    "company": "Tower Research Capital",
+    "description": "Internship focused on applied machine learning or AI systems. Technologies/concepts mentioned (not all mandatory): python, sql, linux, pytorch, tensorflow, machine learning. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Montreal",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "canada",
+      "montreal"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+    "title": "Quantitative Trader/Researcher Intern - Summer 2027",
+    "company": "Tower Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, linux, machine learning, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "New York, Chicago",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "chicago",
+      "new york",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
+    "title": "Quantitative Trader Intern, PhD",
+    "company": "Tower Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, machine learning, algorithms, statistics. Exact graduation-year eligibility is not verified. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "New York",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8037860",
+    "title": "Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)",
+    "company": "Tower Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, machine learning, algorithms, statistics. Stated graduation years: 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "c++",
+      "python"
+    ],
+    "work_mode": null,
+    "location": "London",
+    "eligible_graduation_years": [
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "london",
+      "united kingdom"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+    "title": "Quantitative Developer Intern - Summer 2027",
+    "company": "Tower Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, linux, machine learning. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "New York, Chicago",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "chicago",
+      "new york",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
+    "title": "Quantitative Research Internship - 6 Months, Central Execution Research",
+    "company": "Tower Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, machine learning, statistics. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "London",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "london",
+      "united kingdom"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+    "title": "Quantitative Developer Intern",
+    "company": "Tower Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, numpy, pandas, machine learning. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "python"
+    ],
+    "work_mode": null,
+    "location": "Singapore",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "singapore"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8168634",
+    "title": "Quantitative Researcher Intern, PhD or Postdoc",
+    "company": "Tower Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, linux, machine learning, algorithms, statistics. Exact graduation-year eligibility is not verified. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Singapore, Hong Kong, Shanghai, Sydney",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "australia",
+      "china",
+      "hong kong",
+      "shanghai",
+      "singapore",
+      "sydney"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8168750",
+    "title": "Quantitative Researcher Intern, Bachelor's or Master's",
+    "company": "Tower Research Capital",
+    "description": "Quantitative research or engineering internship in financial technology. Technologies/concepts mentioned (not all mandatory): python, c++, linux, machine learning, algorithms. Exact graduation-year eligibility is not verified. This posting targets master's-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Singapore, Hong Kong, Shanghai, Sydney",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "australia",
+      "china",
+      "hong kong",
+      "shanghai",
+      "singapore",
+      "sydney"
+    ]
+  },
+  {
+    "source_url": "https://www.tower-research.com/open-positions/?gh_jid=8299894",
+    "title": "Software Engineer, C++ - 6 Month Internship Opportunity",
+    "company": "Tower Research Capital",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, c++, linux, machine learning, data structures, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "algorithms",
+      "c++",
+      "data structures"
+    ],
+    "work_mode": null,
+    "location": "Singapore",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "singapore"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8097801",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "company": "Stripe",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): javascript, java, go, ruby, scala. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Dublin",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "dublin",
+      "ireland"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "company": "Stripe",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): javascript, java, go, ruby, scala. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, Seattle, New York City",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "seattle",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "company": "Stripe",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): javascript, java, go, ruby, scala. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Toronto",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "canada",
+      "toronto"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8130807",
+    "title": "Software Engineer, Intern",
+    "company": "Stripe",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): javascript, java, go, ruby, scala. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Bucharest",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": null
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "title": "Software Engineer, Intern",
+    "company": "Stripe",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): javascript, java, go, ruby, scala. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "London",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "london",
+      "united kingdom"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "title": "Software Engineer, Intern",
+    "company": "Stripe",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): javascript, java, go, ruby, scala. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Singapore",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "singapore"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8186367",
+    "title": "Integration Reliability Engineer Intern, Technical Operations",
+    "company": "Stripe",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, sql, go, ruby. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Singapore",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "singapore"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8186442",
+    "title": "Financial Data Analyst Intern, Technical Operations",
+    "company": "Stripe",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, go, ruby. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Singapore",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "singapore"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8194283",
+    "title": "PhD Data Scientist, Intern",
+    "company": "Stripe",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, machine learning, statistics. Stated graduation years: 2027, 2028; check the exact month window in the listing. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "sql"
+    ],
+    "work_mode": null,
+    "location": "New York, Seattle, South San Francisco HQ",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "seattle",
+      "south san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8194285",
+    "title": "PhD Data Scientist, Intern",
+    "company": "Stripe",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, machine learning, statistics. Stated graduation years: 2027, 2028; check the exact month window in the listing. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "sql"
+    ],
+    "work_mode": null,
+    "location": "Toronto",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "canada",
+      "toronto"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "title": "Data Analyst, Intern",
+    "company": "Stripe",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): sql, statistics. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "sql"
+    ],
+    "work_mode": null,
+    "location": "Toronto",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "canada",
+      "toronto"
+    ]
+  },
+  {
+    "source_url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "title": "Data Analyst, Intern",
+    "company": "Stripe",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): sql, statistics. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "sql"
+    ],
+    "work_mode": null,
+    "location": "New York, Seattle, South San Francisco HQ",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "seattle",
+      "south san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+    "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+    "company": "Affirm",
+    "description": "Internship focused on applied machine learning or AI systems. Technologies/concepts mentioned (not all mandatory): python, javascript, react, java, c++, aws. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, California, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+    "title": "IT Engineer Intern (Early Careers Summer 2027)",
+    "company": "Affirm",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, react, java, c++, aws. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, California, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "company": "Affirm",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): go. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, California, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+    "title": "Software Engineer Intern (2027) - Austin, TX",
+    "company": "Cloudflare",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, typescript, c++, go, statistics. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "onsite",
+    "location": "Austin, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "austin",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+    "title": "Software Engineer Intern (2027)",
+    "company": "Cloudflare",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, typescript, c++, go, statistics. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "onsite",
+    "location": "Lisbon, Portugal",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "lisbon",
+      "portugal"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
+    "title": "Software Engineer Intern (2027)",
+    "company": "Cloudflare",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, typescript, c++, go, statistics. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "onsite",
+    "location": "London, United Kingdom",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "london",
+      "united kingdom"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+    "title": "Software Engineer Intern",
+    "company": "Coinbase",
+    "description": "Technical internship with software engineering and project development work. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - San Francisco, CA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322",
+    "title": "Associate Product Manager Intern",
+    "company": "Coinbase",
+    "description": "Product internship working with technical teams on software products. Technologies/concepts mentioned (not all mandatory): machine learning. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - San Francisco, CA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339",
+    "title": "Product Design Intern",
+    "company": "Coinbase",
+    "description": "Design internship involving product interfaces or user experience. Technologies/concepts mentioned (not all mandatory): figma. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - San Francisco, CA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
+    "title": "User Research Intern",
+    "company": "Coinbase",
+    "description": "Technical internship with software engineering and project development work. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - San Francisco, CA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+    "title": "Machine Learning Engineer Intern",
+    "company": "Coinbase",
+    "description": "Internship focused on applied machine learning or AI systems. Technologies/concepts mentioned (not all mandatory): python, pytorch, tensorflow, machine learning. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - San Francisco, CA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+    "title": "Data Engineer Intern",
+    "company": "Coinbase",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, aws, machine learning, data structures, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - San Francisco, CA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+    "title": "Data Science Intern",
+    "company": "Coinbase",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, machine learning, statistics. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+    "title": "Analytics Engineer Intern",
+    "company": "Coinbase",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, statistics. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+    "title": "Forward Deployed Engineer Intern (HR Technology)",
+    "company": "Coinbase",
+    "description": "Technical internship with software engineering and project development work. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
+    "title": "Software Engineer Intern",
+    "company": "Coinbase",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): react, ruby, docker, aws. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Hybrid - Singapore",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "singapore"
+    ]
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+    "title": "Software Engineering Intern (Summer)",
+    "company": "Datadog",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): kubernetes, data structures, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "new york",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+    "title": "Product Management Intern",
+    "company": "Datadog",
+    "description": "Product internship working with technical teams on software products. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "New York, New York, USA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+    "title": "Software Engineering Intern",
+    "company": "Datadog",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): kubernetes, data structures, algorithms. Stated graduation years: 2027; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Madrid, Spain",
+    "eligible_graduation_years": [
+      2027
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "madrid",
+      "spain"
+    ]
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+    "title": "Software Engineering Intern",
+    "company": "Datadog",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): kubernetes, data structures, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Paris, France",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "france",
+      "paris"
+    ]
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440",
+    "title": "Applied Science Intern",
+    "company": "Datadog",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): machine learning, algorithms, statistics. Stated graduation years: 2027; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Paris, France",
+    "eligible_graduation_years": [
+      2027
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "france",
+      "paris"
+    ]
+  },
+  {
+    "source_url": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657",
+    "title": "Research Science Intern (PhD)",
+    "company": "Datadog",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): machine learning, statistics. Exact graduation-year eligibility is not verified. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "New York, New York, USA; Pittsburgh, Pennsylvania, USA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "pittsburgh",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+    "title": "Data Scientist, Intern",
+    "company": "Duolingo",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, statistics. Stated graduation years: 2027, 2028; check the exact month window in the listing. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "New York, NY; Pittsburgh, PA",
+    "eligible_graduation_years": [
+      2027,
+      2028
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "pittsburgh",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+    "title": "Data Scientist, Intern (PhD)",
+    "company": "Duolingo",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, machine learning, statistics. Exact graduation-year eligibility is not verified. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "New York, NY; Pittsburgh, PA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "pittsburgh",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230677",
+    "title": "Product Data Analyst Intern",
+    "company": "CarGurus",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, go, statistics. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "sql",
+      "statistics"
+    ],
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230686",
+    "title": "Product Management Intern",
+    "company": "CarGurus",
+    "description": "Product internship working with technical teams on software products. Technologies/concepts mentioned (not all mandatory): go. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230687",
+    "title": "UX Design Intern",
+    "company": "CarGurus",
+    "description": "Design internship involving product interfaces or user experience. Technologies/concepts mentioned (not all mandatory): go, figma. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230690",
+    "title": "Technical Product Management Intern",
+    "company": "CarGurus",
+    "description": "Product internship working with technical teams on software products. Technologies/concepts mentioned (not all mandatory): go. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230749",
+    "title": "Data Governance Engineer Intern",
+    "company": "CarGurus",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, go. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750",
+    "title": "Data Platform Engineer Intern",
+    "company": "CarGurus",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, go. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "python",
+      "sql"
+    ],
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230755",
+    "title": "Site Reliability Engineer Intern",
+    "company": "CarGurus",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, java, go, linux, docker, kubernetes. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "docker",
+      "linux"
+    ],
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230777",
+    "title": "Software Development Engineer Intern (Full Stack)",
+    "company": "CarGurus",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): javascript, typescript, react, java, go, data structures, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "algorithms",
+      "css",
+      "data structures",
+      "html",
+      "java",
+      "react"
+    ],
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231463",
+    "title": "Threat Detection & Response Engineer Intern",
+    "company": "CarGurus",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, go, kubernetes, aws. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231504",
+    "title": "Software Development Engineer Intern",
+    "company": "CarGurus",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, typescript, react, java, go, aws, data structures, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "algorithms",
+      "data structures"
+    ],
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231510",
+    "title": "Data Analytics Engineer Intern",
+    "company": "CarGurus",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, go, statistics. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "sql"
+    ],
+    "work_mode": "hybrid",
+    "location": "Boston, Massachusetts, United States",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "boston",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "company": "Figma",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, java, c++, go, data structures, algorithms, figma. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, CA • New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
+    "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
+    "company": "Figma",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, java, c++, go, data structures, algorithms, figma. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "London, England",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "london",
+      "united kingdom"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+    "title": "Data Engineer Intern (2027)",
+    "company": "Figma",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, go, figma. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": [
+      "sql"
+    ],
+    "work_mode": null,
+    "location": "San Francisco, CA • New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+    "title": "Data Science Intern (2027)",
+    "company": "Figma",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, go, statistics, figma. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, CA • New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004",
+    "title": "Product Design Intern (2027)",
+    "company": "Figma",
+    "description": "Design internship involving product interfaces or user experience. Technologies/concepts mentioned (not all mandatory): go, figma. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, CA • New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+    "title": "PhD Intern, Data Science (2027)",
+    "company": "Figma",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, go, machine learning, statistics, figma. Exact graduation-year eligibility is not verified. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, CA • New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
+    "title": "PhD Intern, AI Applied Scientist (2027)",
+    "company": "Figma",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, go, pytorch, tensorflow, machine learning, figma. Exact graduation-year eligibility is not verified. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, CA • New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004",
+    "title": "PhD Intern, Software Engineer - Graphics (2027)",
+    "company": "Figma",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): c++, go, algorithms, figma. Exact graduation-year eligibility is not verified. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, CA • New York, NY",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://nuro.ai/careersitem?gh_jid=7351061",
+    "title": "Software Engineer, AI Platform - Intern",
+    "company": "Nuro",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, c++, machine learning, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Mountain View, California (HQ)",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "mountain view",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+    "title": "Software Engineer Intern 2027 (USA)",
+    "company": "Pinterest",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, typescript, react, java, c++, go, data structures, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": "remote",
+    "location": "San Francisco, CA, US; Remote, US",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "san francisco",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034",
+    "title": "Software Engineering Intern 2027 (Dublin)",
+    "company": "Pinterest",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, typescript, react, java, c++, go, data structures, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Dublin, IE",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "dublin",
+      "ireland"
+    ]
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
+    "title": "Software Engineering Intern 2027 (Toronto)",
+    "company": "Pinterest",
+    "description": "Technical internship with software engineering and project development work. Technologies/concepts mentioned (not all mandatory): python, javascript, typescript, react, java, c++, go, data structures, algorithms. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Toronto, ON, CA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "canada",
+      "toronto"
+    ]
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+    "title": "Machine Learning Intern 2027 (Toronto)",
+    "company": "Pinterest",
+    "description": "Internship focused on applied machine learning or AI systems. Technologies/concepts mentioned (not all mandatory): python, java, c++, pytorch, tensorflow, machine learning, statistics. Exact graduation-year eligibility is not verified. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "Toronto, ON, CA",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "canada",
+      "toronto"
+    ]
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+    "title": "Master's Machine Learning Internship 2027 (USA)",
+    "company": "Pinterest",
+    "description": "Internship focused on applied machine learning or AI systems. Technologies/concepts mentioned (not all mandatory): python, java, c++, pytorch, tensorflow, machine learning, statistics. Exact graduation-year eligibility is not verified. This posting targets master's-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "palo alto",
+      "san francisco",
+      "seattle",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+    "title": "Master's Data Science Internship 2027 (USA)",
+    "company": "Pinterest",
+    "description": "Data-focused internship covering analysis, modeling or data infrastructure. Technologies/concepts mentioned (not all mandatory): python, sql, machine learning, statistics. Exact graduation-year eligibility is not verified. This posting targets master's-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "palo alto",
+      "san francisco",
+      "seattle",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
+    "title": "PhD Machine Learning Internship 2027 (USA)",
+    "company": "Pinterest",
+    "description": "Internship focused on applied machine learning or AI systems. Technologies/concepts mentioned (not all mandatory): python, java, c++, pytorch, tensorflow, machine learning, statistics. Exact graduation-year eligibility is not verified. This posting targets PhD-level candidates. Verify degree, work authorization and dates at the source.",
+    "required_skills": null,
+    "work_mode": null,
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "eligible_graduation_years": null,
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "new york",
+      "palo alto",
+      "san francisco",
+      "seattle",
+      "united states"
+    ]
+  },
+  {
+    "source_url": "https://careers.cargill.com/en/job/bengaluru/software-engineer-intern-digital-technology-and-data/23251/100079360032",
+    "title": "Software Engineer Intern - Digital Technology and Data",
+    "company": "Cargill",
+    "description": "Develop cloud, big-data and application engineering skills in Bengaluru. Technical degree completion required in June 2027; institution permission needed for January-June internship. Structured programming, systems analysis and database design knowledge required.",
+    "required_skills": [
+      "database design",
+      "programming",
+      "systems analysis"
+    ],
+    "work_mode": "hybrid",
+    "location": "Bengaluru, India",
+    "eligible_graduation_years": [
+      2027
+    ],
+    "last_checked_at": "2026-10-24",
+    "is_active": true,
+    "compatible_locations": [
+      "bengaluru",
+      "india"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "new_web_records": 100,
+  "total_csv_records": 152,
+  "database_records": 152,
+  "active_database_records": 149,
+  "admin_password_authenticates": true,
+  "profiles": [
+    {
+      "graduation_year": 2026,
+      "strict_eligible": 0,
+      "including_unverified": 112
+    },
+    {
+      "graduation_year": 2027,
+      "strict_eligible": 30,
+      "including_unverified": 142
+    },
+    {
+      "graduation_year": 2028,
+      "strict_eligible": 34,
+      "including_unverified": 146
+    },
+    {
+      "graduation_year": 2029,
+      "strict_eligible": 2,
+      "including_unverified": 114
+    },
+    {
+      "graduation_year": 2030,
+      "strict_eligible": 0,
+      "including_unverified": 112
+    }
+  ],
+  "india_2028_including_unverified": 6,
+  "automated_tests_passed": 41
+}

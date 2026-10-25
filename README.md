@@ -11,6 +11,10 @@ For Streamlit Community Cloud with durable storage and on-demand Supabase resume
 see [the Supabase deployment guide](docs/STREAMLIT_SUPABASE.md). The shared demo
 access code is **DUMMY**. Keep real resumes out of this public demo account.
 
+The public administrator demo code is **ADMIN**, displayed beside DUMMY on the
+login page. It grants catalog-management access, including persistent additions.
+The separate private administrator code remains configured through Secrets.
+
 The currently configured cloud database is Neon. Follow
 [the Neon deployment guide](docs/STREAMLIT_NEON.md) for that configuration.
 

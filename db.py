@@ -95,6 +95,15 @@ def init_db(path=None):
           (demo['id'],json.dumps(profile.skills),profile.interests,profile.graduation_year,
            int(profile.remote_only),json.dumps(profile.preferred_locations),now(),
            int(profile.allow_unknown_graduation)))
+        # Owner-requested public demo administrator, separate from private access.
+        public_admin_hash=hashlib.sha256(b'ADMIN').hexdigest()
+        public_admin=con.execute('SELECT id FROM users WHERE access_token_hash=?',
+            (public_admin_hash,)).fetchone()
+        if public_admin:
+            con.execute('UPDATE users SET is_admin=1 WHERE id=?',(public_admin['id'],))
+        else:
+            con.execute('INSERT INTO users(display_name,access_token_hash,is_admin) VALUES (?,?,1)',
+                ('Demo Admin',public_admin_hash))
         if cloud:
             admin_code=cloud_storage.secret('ADMIN_ACCESS_CODE').strip()
             if len(admin_code)<24 or admin_code.startswith(('replace-','your-','paste-')):

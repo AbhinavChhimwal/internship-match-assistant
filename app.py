@@ -40,8 +40,9 @@ if 'user' not in st.session_state:
         st.write('Sign in to find and save internships.')
         with st.form('login',border=True):
             code=st.text_input('Access code or admin password',type='password',
-                placeholder='Try the demo: DUMMY',
-                help='Use DUMMY for the shared demo account. Everyone using this code shares its profile and saved data.')
+                placeholder='Student: DUMMY | Admin: ADMIN',
+                help='DUMMY opens the shared student account. ADMIN opens the shared administrator dashboard and can add internships.')
+            st.caption('Demo access: Student — DUMMY · Admin — ADMIN')
             if st.form_submit_button('Sign in',type='primary',use_container_width=True):
                 if time.monotonic()<st.session_state.get('login_after',0):
                     st.error('Wait a moment before trying again.')

@@ -10,6 +10,17 @@ refresh_project_modules()
 
 APP=Path(__file__).resolve().parents[1]/'app.py'
 
+def test_public_admin_hint_and_login(tmp_path,monkeypatch):
+    monkeypatch.setattr(db,'STATE_DIR',tmp_path)
+    at=AppTest.from_file(APP,default_timeout=30).run()
+    assert not at.exception
+    assert any('DUMMY' in c.value and 'ADMIN' in c.value for c in at.caption)
+    at.text_input[0].set_value('ADMIN')
+    at.button[0].click().run()
+    assert not at.exception
+    assert any(t.value=='Admin dashboard' for t in at.title)
+    assert any(b.label=='Save internship' for b in at.button)
+
 def test_invited_student_journey(tmp_path,monkeypatch):
     monkeypatch.setattr(db,'STATE_DIR',tmp_path)
     db.init_db()

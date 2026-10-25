@@ -102,6 +102,19 @@ def test_dummy_is_non_admin_and_profile_survives_reinitialization(tmp_path):
     assert db.get_profile(user['id'],path).interests=='Persistent demo interests'
 
 
+def test_public_admin_does_not_replace_private_admin_or_student_role(tmp_path):
+    from catalog_admin import create_admin,require_admin
+    path=tmp_path/'roles.db'
+    code=create_admin(path=path)
+    private=db.authenticate(code,path)
+    db.init_db(path)
+    public=db.authenticate('ADMIN',path)
+    assert public['is_admin'] and public['id']!=private['id']
+    require_admin(public['id'],path)
+    assert db.authenticate(code,path)['id']==private['id']
+    assert not db.authenticate('DUMMY',path)['is_admin']
+
+
 def test_cloud_restart_preserves_admin_listing_and_csv_export(tmp_path, monkeypatch):
     """Exercise the durable-catalog branch using a local transactional test store.
 

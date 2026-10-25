@@ -96,3 +96,11 @@ profile and Streamlit confirmation previews. Existing resume replacement tests
 continue to pass. Provider behavior is tested with controlled Gemini responses;
 no extra live Gemini calls or real profile changes were made for these checks.
 
+# Public admin demonstration (2026-10-25)
+
+All 71 tests passed in 38.50 seconds. Tests verify that the login page displays
+both public demo codes, ADMIN opens the admin dashboard, DUMMY stays non-admin,
+and the separate private admin code still authenticates. Initialization also
+supports the legacy local schema. No real secrets or cloud profile data were
+modified during these tests.
+

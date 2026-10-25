@@ -490,3 +490,18 @@ skills, without requiring those skills to appear in the saved resume.
   account isolation, skill limits, search without mutation and the visible
   confirmation panel. The public app is now reported deployed by the owner;
   hosted verification of this increment follows the GitHub deployment update.
+
+## Increment 14 — Public administrator demo login
+
+The owner requested displaying an administrator demo password of **ADMIN** beside
+the existing **DUMMY** student code. `db.init_db()` now ensures a separate Demo
+Admin account whose hashed access code is ADMIN and whose administrator role is
+set explicitly. The original private admin account and configured secret remain
+unchanged. `app.py` displays both codes in the login field placeholder and a
+visible caption, with help text explaining their roles.
+
+This gives anyone who opens the login page access to the real catalog-management
+dashboard, including adding persistent internships and exporting the catalog.
+It is a public demonstration credential, not a private administrator password.
+Regression tests verify login routing, visible hints, role separation and continued
+authentication of the separate private administrator.
